@@ -1,0 +1,17 @@
+{
+  "name": "com.korogames.korolang",
+  "author": "KoroGames",
+  "displayName": "KoroLang",
+  "description": "KoroLang",
+  "unity": "2020.3",
+  "version": "0.0.1",
+  "keywords": [
+    "korogames"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koro-games/KoroLang"
+  },
+  "type": "",
+  "dependencies": {}
+}
