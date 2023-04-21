@@ -1,0 +1,20 @@
+{
+    "name": "KoroGames.KoroLang.Editor",
+    "rootNamespace": "KoroGames.KoroLang.Editor",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.Timeline",
+        "KoroGames.KoroLang"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
